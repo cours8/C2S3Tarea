@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">C2S3Tarea</string>
+    <string name="saludo_inicial">Welcome!</string>
+    <string name="btn_login">Login</string>
+</resources>

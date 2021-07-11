@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="saludo_inicial_text_size">64sp</dimen>
+    <dimen name="btn_login_text_size">32sp</dimen>
+    <dimen name="btn_login_stroke_width">2dp</dimen>
+    <dimen name="saludo_inicial_vertical_bias">0.1</dimen>
+    <dimen name="btn_login_vertical_bias">0.1</dimen>
+</resources>

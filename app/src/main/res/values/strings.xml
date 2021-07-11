@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">C2S3Tarea</string>
+    <string name="saludo_inicial">¡Saludos!</string>
+    <string name="btn_login">Entrar</string>
+</resources>
