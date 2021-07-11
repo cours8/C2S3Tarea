@@ -46,5 +46,4 @@
         app:layout_constraintVertical_bias="@dimen/btn_login_vertical_bias"
         app:strokeWidth="@dimen/btn_login_stroke_width" />
 
-
 </androidx.constraintlayout.widget.ConstraintLayout>
