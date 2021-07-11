@@ -3,4 +3,6 @@
     <string name="app_name">C2S3Tarea</string>
     <string name="saludo_inicial">Welcome!</string>
     <string name="btn_login">Login</string>
+    <string name="no_implementado_mensaje">The feature was not implemented yet.</string>
+    <string name="no_implementado_dialogo">Coming soon</string>
 </resources>
